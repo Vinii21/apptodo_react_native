@@ -1,0 +1,5 @@
+# Ignorar directorio node_modules en cualquier lugar del repositorio
+**/node_modules/
+
+# Ignorar archivos .env en cualquier lugar del repositorio
+**/.env
